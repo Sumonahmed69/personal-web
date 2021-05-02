@@ -1,6 +1,6 @@
 import React from 'react';
-import bg from '../../../images/bg.jpg'
-import img from '../../../images/sumonCV.jpg'
+import bg from '../../../images/bg.jpg';
+import img from '../../../images/sumonCV.jpg';
 
 const AboutMeHeder = () => {
     return (
